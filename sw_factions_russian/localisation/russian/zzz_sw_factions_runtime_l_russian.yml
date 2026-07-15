@@ -1,0 +1,9 @@
+﻿l_russian:
+
+ # Missing localization keys referenced by the original mod at runtime.
+ wookie_villages: "Деревни вуки"
+ wookie_slave_trade: "Работорговля вуки"
+ FACINATING: "ПОРАЗИТЕЛЬНО"
+ FO_PSIONIC_ARMY_ROM: "$R$ отряд адептов тёмной стороны"
+ requires_colonized_planet_kuat_ring: "$TRIGGER_FAIL$В системе должна находиться колонизированная нами планета."
+ kuat_ring_deactivated_MEGASTRUCTURE_DETAILS: "Деактивированный орбитальный комплекс верфей, опоясывающий планету. После восстановления он значительно расширит наши возможности кораблестроения."
